@@ -1,0 +1,18 @@
+!define TEST_SYSTEM {slim}
+!define COLLAPSE_SETUP {true}
+!define COLLAPSE_TEARDOWN {true}
+
+!path fitnesse-standalone.jar
+!path /Volumes/HD/Eclipse Workspaces/XP/CarRental/bin
+
+
+
+A theme can be thought of as a collection of user stories
+  or a big story - too big to complete in an iteration/sprint.
+  Some people call these "epics".
+
+Themes:
+  
+  * >RentCar
+
+
