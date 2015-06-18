@@ -22,7 +22,7 @@ Your charges will be for 3 days at $45.00 per day.
 You are required to return on March 25, 2015 by 18:00 to
 avoid late fees that we'll make up on the spot.
 
-Paid by *********0987    
+Paid by ************0987    
 }}}
 
 
@@ -35,5 +35,5 @@ Verify that the generated contract contains the right data.  We'll specify which
 | Rented: 03/22/15  | true |
 | 3 days at $45.00 per day | true |
 | return on March 25, 2015  | true |
-| Paid by *********0987 | true |
+| Paid by ************0987 | true |
 | Smoking allowed | false |
