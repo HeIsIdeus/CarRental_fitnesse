@@ -3,7 +3,7 @@
 !define COLLAPSE_TEARDOWN {true}
 
 !path fitnesse-standalone.jar
-!path ../../CarRental/CarRental/bin
+!path /Users/bob/git/CarRental/CarRental/bin
 
 
 
