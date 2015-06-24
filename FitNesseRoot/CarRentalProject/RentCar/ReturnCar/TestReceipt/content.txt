@@ -13,9 +13,9 @@ We'll start by adding cars to be rented then returned.
 Rent some cars
 
 | Rent Car |
-| renterName | driversLicenseNumber | creditCardNumber | vin | todaysDate | numberOfDays |
-| John Q. Public | M123-4567-7890    | 9876543210987    | ford1 | 3/22/15    | 3 |
-| John's Significant Other | M123-4567-7891    | 9876543210987    | lexus1 | 3/22/15    | 3 |
+| renterName | driversLicenseNumber | creditCardNumber | vin | todaysDate | numberOfDays | contractId? |
+| John Q. Public | M123-4567-7890    | 9876543210987    | ford1 | 3/22/15    | 3 | $fordContractId= |
+| John's Significant Other | M123-4567-7891    | 9876543210987    | lexus1 | 3/22/15    | 3 | $lexusContractId= |
 
 
 
