@@ -45,7 +45,7 @@ Verify the the correct information is printed on the receipt.  We'll identify th
 |text | isOnReceipt? |
 |John Q. Public |true|
 |Date rented: March 22, 2015| true |
-|Date retured: March 25, 2015 | true |
+|Date returned: March 25, 2015 | true |
 | ford1 3 days @ $45.00 | true |
 | Total charges: $135.00 | true |
 | Charged to ************0987|true |
@@ -58,6 +58,6 @@ Bring the Lexus back after only one day and check calculations
 |examine receipt| lexus1 |
 |text | isOnReceipt? |
 |Date rented: March 22, 2015| true |
-|Date retured: March 23, 2015 | true |
+|Date returned: March 23, 2015 | true |
 | lexus1 1 days @ $155.00 | true |
 | Total charges: $155.00 | true |
