@@ -21,9 +21,7 @@ Rent some cars
 
 When the renter returns the car, the rental agent will enter the vehicle ID that's printed on the keychain. Today's date is entered for the return date and a receipt is printed. 
 
-| Return Car |
-| carId | todaysDate |
-| ford1 | 3/25/15  |
+| Return Car | ford1 |
 
 The receipt looks as follows:
 {{{
