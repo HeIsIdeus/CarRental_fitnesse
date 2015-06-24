@@ -21,7 +21,7 @@ Rent some cars
 
 When the renter returns the car, the rental agent will enter the vehicle ID that's printed on the keychain. Today's date is entered for the return date and a receipt is printed. 
 
-| Return Car | ford1 |
+| Return Car | ford1 | $fordContractId |
 
 The receipt looks as follows:
 {{{
@@ -53,7 +53,7 @@ Verify the the correct information is printed on the receipt.  We'll identify th
 
 Bring the Lexus back after only one day and check calculations
 
-| Return Car | lexus1 |
+| Return Car | lexus1 | $lexusContractId |
 
 |examine receipt| lexus1 |
 |text | isOnReceipt? |
