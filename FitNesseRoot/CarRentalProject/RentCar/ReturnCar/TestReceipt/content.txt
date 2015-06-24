@@ -53,9 +53,7 @@ Verify the the correct information is printed on the receipt.  We'll identify th
 
 Bring the Lexus back after only one day and check calculations
 
-| Return Car |
-| carId | todaysDate |
-| lexus1 | 3/23/15  |
+| Return Car | lexus1 |
 
 |examine receipt| lexus1 |
 |text | isOnReceipt? |
