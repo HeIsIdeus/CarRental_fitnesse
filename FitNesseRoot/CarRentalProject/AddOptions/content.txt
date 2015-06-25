@@ -1,7 +1,7 @@
 Story:
 
 As a user I want to be able to rent a car.
-In the process of renting a car, I want to be able to select different feature options to include in my car rental with price.
+In the process of renting a car, I want to be able to select different options to include in to my car rental.
 The total price in the contract should equal the sum total of the base rental car and the included option(s).
 
 
