@@ -33,14 +33,15 @@ Tests:
 A contract will be generated for the above rental. It will look something like this:
 {{{
 Dare Devil Motors           John Q. Public          2002 Blue Ford Taurus
-Car Rental Div.       Rented: 03/22/15
+Car Rental Div.             Rented: 03/22/15
 
 Your charges will be for 3 days at $115.00 per day.
-Your selected options are are: GPS, car seat.
+Your selected options are: GPS, car seat.
 You are required to return on March 25, 2015 by 18:00 to
 avoid late fees that we'll make up on the spot.
 
 Paid by ************0987    
+
 }}}
 
 
