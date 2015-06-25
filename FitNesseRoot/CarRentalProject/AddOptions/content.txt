@@ -32,7 +32,7 @@ Tests:
 
 A contract will be generated for the above rental. It will look something like this:
 {{{
-Acme Motors           John Q. Public          2002 Blue Ford Taurus
+Dare Devil Motors           John Q. Public          2002 Blue Ford Taurus
 Car Rental Div.       Rented: 03/22/15
 
 Your charges will be for 3 days at $115.00 per day.
