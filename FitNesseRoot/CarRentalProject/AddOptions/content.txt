@@ -1,0 +1,26 @@
+Story:
+
+As a user I want to be able to select different feature options to include in my car rental with price
+
+
+Tests: 
+
+First, prime the database with known options.
+
+!|Initialize with options|
+| option name | daily rate |
+| GPS | 2500 |
+| car seat | 4500 |
+| satellite radio | 1500 |
+| roadside assistance | 1000 | 
+
+Verify that I can find car within price range
+!|query: show cars in price range|2000 to 7000|
+| vin    | description       | daily rate |
+| acura1 | 1998 Acura RL     | 4500 |
+
+Verify that no cars returned if not within price range
+!|query: show cars in price range|1000 to 1300|
+| vin    | description       | daily rate |
+
+
